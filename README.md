@@ -33,5 +33,5 @@ todo-app/
 ## Installation
 
 1. Clone the repository
-
+```bash
 git clone https://github.com/Nainisha17/synent-task5-To-Do-List-Nainisha.git
