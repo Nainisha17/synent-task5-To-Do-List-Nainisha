@@ -5,6 +5,10 @@
 
 A simple and responsive To-Do List application built using HTML, CSS, and JavaScript. The application allows users to add, complete, and delete tasks with data persistence using Local Storage.
 
+# Project link
+
+https://nainisha17.github.io/synent-task5-To-Do-List-Nainisha/
+
 ## Features
 
 - Add New Tasks
